@@ -12,17 +12,17 @@
   <img align="left" alt="Luiz Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/bia.schwartz/">
+<a href="https://www.instagram.com/luiz.yaml/">
   <img align="left" alt="Luiz Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=beatrizsabbatini.beatrizsabbatini)
+![](https://visitor-badge.glitch.me/badge?page_id=Felipenho.Felipenho)
 
 **About me:**
 
-- 👩🏼‍💻 I am currently working with Docker, Linux and full time with AzureDevOps and Azure Services;
-- 📚 I’m currently learning Python, Go, Hashicorp Stack; 
-- 💬 Ask me about anything, I am happy to help;
+- 🤔‍💻 I am currently working with Docker, Linux and full time with AzureDevOps and Azure Services;
+- 📚 I’m currently learning Python, Go and Hashicorp Stack;
+- 💬 Ask me about anything, as an enthusiast, I'll be happy to help;
 - 📫 How to reach me: [@luizsiqueira](https://www.linkedin.com/in/luiz-felipe-torres-de-siqueira-930359132/);
 
 <br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Felipenho&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
