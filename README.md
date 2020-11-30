@@ -8,7 +8,7 @@
   <img align="left" alt="Luiz LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/beatrizsabbatini">
+<a href="https://t.me/Felipenho">
   <img align="left" alt="Luiz Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
