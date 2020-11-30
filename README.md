@@ -20,7 +20,7 @@
 
 **About me:**
 
-- 🤔‍💻 I am currently working with Docker, Linux and full time with AzureDevOps and Azure Services;
+- 🤔‍💻 I am currently working with full time with Docker, Linux and AzureDevOps/Azure Services;
 - 📚 I’m currently learning Python, Go and Hashicorp Stack;
 - 💬 Ask me about anything, as an enthusiast, I'll be happy to help;
 - 📫 How to reach me: [@luizsiqueira](https://www.linkedin.com/in/luiz-felipe-torres-de-siqueira-930359132/);
