@@ -1,7 +1,7 @@
 ### Hi! I'm Luiz Felipe, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-<p><em>Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>DevOps/DataOps Consultant at<a target="_blank" href="https://www.triscal.com.br/" >Triscal </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/luiz-felipe-torres-de-siqueira-930359132/">
