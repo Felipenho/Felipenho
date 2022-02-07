@@ -3,7 +3,6 @@
 <p>
   <em>
     Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio</a>
-    </br>
   </em>
 </p>
 <p>
