@@ -4,6 +4,16 @@
 <br>
 *DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a>*
 
+
+- Working full time with Docker, Linux, AzureDevOps and Azure Services.
+- Studying Python, Go and Hashicorp Stack.
+
+Trying to automate what I can! 
+Ask me about anything, as an enthusiast, I'll be happy to help.
+
+&nbsp;
+&nbsp;
+
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=95FF15" />
 </a>
@@ -11,15 +21,6 @@
 <a href="mailto:lftsiqueira1@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=95FF15" />
 </a>
-
-**About me:**
-
-- Working full time with Docker, Linux, AzureDevOps and Azure Services
-- Learning Python, Go and Hashicorp Stack
-- Ask me about anything, as an enthusiast, I'll be happy to help!
-
-&nbsp;
-&nbsp;
 
 <div align="center">
   <a href="https://github.com/Felipenho">
