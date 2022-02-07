@@ -21,8 +21,6 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=95FF15" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Felipenho.Felipenho&left_color=black&right_color=green)
-
 **About me:**
 
 - Working full time with Docker, Linux, AzureDevOps and Azure Services
