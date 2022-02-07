@@ -1,7 +1,7 @@
 ## Hello, I'm Luiz Felipe, welcome to my profile!
 
- Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio</a>
- DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a>
+ *Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio</a>*
+ *DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a>*
 
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=95FF15" />
