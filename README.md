@@ -11,6 +11,8 @@
 Trying to automate and containerize what I can! <br>
 Ask me about anything, as an enthusiast, I'll be happy to help.
 
+Wanna talk?
+Send me a message!
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=95FF15" />
 </a>
