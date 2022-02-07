@@ -9,7 +9,7 @@
 - Studying Python, Go and Hashicorp Stack.
 
 Trying to automate and containerize what I can! <br>
-Ask me about anything, as an enthusiast, I'll be happy to help.
+A DevOps enthusiast, ask me about anything, I'll be happy to help!
 
 Wanna talk?
 Send me a message!
