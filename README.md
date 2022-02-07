@@ -8,7 +8,7 @@
 - Working full time with Docker, Linux, AzureDevOps and Azure Services.
 - Studying Python, Go and Hashicorp Stack.
 
-Trying to automate what I can! 
+Trying to automate what I can! <br>
 Ask me about anything, as an enthusiast, I'll be happy to help.
 
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
