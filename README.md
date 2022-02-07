@@ -8,8 +8,8 @@
 - Working full time with Docker, Linux, AzureDevOps and Azure Services.
 - Studying Python, Go and Hashicorp Stack.
 
-Trying to automate and containerize what I can! <br>
-A DevOps enthusiast, ask me about anything, I'll be happy to help!
+Trying to automate and containerize what I can!
+
 
 Wanna talk?
 Send me a message!
