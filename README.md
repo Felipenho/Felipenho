@@ -5,6 +5,10 @@
   <em>
     Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio
     </br>
+  </em>
+</p>
+<p>
+  <em>
     DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
