@@ -1,5 +1,4 @@
 ## Hello, I'm Luiz Felipe, welcome to my profile!
-<hr>
 
 <p>
   <em>
