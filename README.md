@@ -11,7 +11,7 @@
 Trying to automate and containerize what I can!
 
 
-Wanna talk?
+Have something on your mind you wanna talk about?
 Send me a message!
 
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
