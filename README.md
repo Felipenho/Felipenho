@@ -11,9 +11,6 @@
 Trying to automate what I can! 
 Ask me about anything, as an enthusiast, I'll be happy to help.
 
-&nbsp;
-&nbsp;
-
 <a href="https://www.linkedin.com/in/luiz-felipe-torres/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=95FF15" />
 </a>
@@ -21,6 +18,9 @@ Ask me about anything, as an enthusiast, I'll be happy to help.
 <a href="mailto:lftsiqueira1@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=95FF15" />
 </a>
+
+&nbsp;
+&nbsp;
 
 <div align="center">
   <a href="https://github.com/Felipenho">
