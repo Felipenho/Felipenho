@@ -1,4 +1,4 @@
-## Hello! I'm Luiz Felipe, welcome to my profile!
+## Hello, I'm Luiz Felipe Torres, welcome to my profile!
 <hr>
 
 <p>
