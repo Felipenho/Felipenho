@@ -1,15 +1,15 @@
-## Hello, I'm Luiz Felipe Torres, welcome to my profile!
+## Hello, I'm Luiz Felipe, welcome to my profile!
 <hr>
 
 <p>
   <em>
-    Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio
+    Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio</a>
     </br>
   </em>
 </p>
 <p>
   <em>
-    DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a>
   </em>
 </p>
 
