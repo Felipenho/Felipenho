@@ -1,6 +1,6 @@
 ## Hello, I'm Luiz Felipe!
 
-*Studying Systems Analysis at <a target="_blank" href="https://portal.estacio.br/?estado=RJ">Estácio</a>*
+*Studying Systems Analysis at <a target="_blank" href="https://www.fiap.com.br/">FIAP</a>*
 <br>
 *DevOps/DataOps Consultant at <a target="_blank" href="https://www.triscal.com.br/" >Triscal </a>*
 
